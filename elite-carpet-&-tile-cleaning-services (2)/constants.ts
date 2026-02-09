@@ -55,7 +55,7 @@ export const SERVICES: Service[] = [
     title: 'Tile & Grout Cleaning',
     description: 'Are you in need of tile cleaning in Washington County? Our trusted tile-cleaning specialists are ready to help. Why Us? Professional service, Tile cleaning, grout cleaning, and high Customer satisfaction.',
     icon: Grid3X3,
-    image: 'https://images.unsplash.com/photo-1584622050111-993a426fbf0a?auto=format&fit=crop&q=80&w=800' // Tile floor
+    image: '/images/clean6.png' // Tile floor
   },
   {
     id: 'rugs',
