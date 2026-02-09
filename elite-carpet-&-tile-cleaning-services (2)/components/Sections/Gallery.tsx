@@ -14,7 +14,7 @@ const Gallery: React.FC = () => {
         {/* Large Item */}
         <div className="col-span-2 row-span-2 rounded-2xl overflow-hidden relative group">
            <img 
-            src="https://images.unsplash.com/photo-1558603668-6570496b66f8?auto=format&fit=crop&q=80&w=800" 
+            src="/images/clean1.png" 
             alt="Living room carpet" 
             className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
           />
@@ -24,14 +24,14 @@ const Gallery: React.FC = () => {
         {/* Small Items */}
         <div className="rounded-2xl overflow-hidden relative group">
            <img 
-            src="https://images.unsplash.com/photo-1527610267748-2633425e4dd4?auto=format&fit=crop&q=80&w=400" 
+            src="/images/clean2.png" 
             alt="Upholstery cleaning" 
             className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
           />
         </div>
         <div className="rounded-2xl overflow-hidden relative group">
            <img 
-            src="https://images.unsplash.com/photo-1516455590571-18256e5bb9ff?auto=format&fit=crop&q=80&w=400" 
+            src="/images/clean4.png" 
             alt="Pet friendly cleaning" 
             className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
           />
