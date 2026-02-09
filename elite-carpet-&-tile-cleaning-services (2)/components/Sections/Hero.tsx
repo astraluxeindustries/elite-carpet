@@ -10,7 +10,7 @@ const Hero: React.FC = () => {
       {/* Background Image with Overlay */}
       <div className="absolute inset-0 z-0">
         <img 
-          src="https://images.unsplash.com/photo-1527513913502-33fa3f5451aa?auto=format&fit=crop&q=80&w=2000"
+          src="/images/hero-cleaning.jpg"
           alt="Clean modern living room with carpet"
           className="w-full h-full object-cover"
         />
