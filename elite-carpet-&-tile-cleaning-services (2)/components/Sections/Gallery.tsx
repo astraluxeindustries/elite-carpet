@@ -38,7 +38,7 @@ const Gallery: React.FC = () => {
         </div>
         <div className="col-span-2 rounded-2xl overflow-hidden relative group">
            <img 
-            src="https://images.unsplash.com/photo-1628191011893-6a2c2084776e?auto=format&fit=crop&q=80&w=800" 
+            src="/images/clean7.png" 
             alt="Tile cleaning" 
             className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
           />
