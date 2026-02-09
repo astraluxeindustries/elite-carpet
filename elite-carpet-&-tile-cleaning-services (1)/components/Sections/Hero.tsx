@@ -9,11 +9,13 @@ const Hero: React.FC = () => {
     <section id="hero" className="relative h-screen min-h-[700px] flex items-center justify-center overflow-hidden">
       {/* Background Image with Overlay */}
       <div className="absolute inset-0 z-0">
+         <div className="absolute inset-y-0 right-0 w-[45%]">
         <img 
           src="https://images.unsplash.com/photo-1527513913502-33fa3f5451aa?auto=format&fit=crop&q=80&w=2000"
           alt="Clean modern living room with carpet"
           className="w-full h-full object-cover"
         />
+           </div>
         <div className="absolute inset-0 bg-gradient-to-r from-elite-dark/90 via-elite-dark/70 to-transparent" />
       </div>
 
