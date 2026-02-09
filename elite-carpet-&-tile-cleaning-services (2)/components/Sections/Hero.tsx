@@ -12,7 +12,7 @@ const Hero: React.FC = () => {
         <img 
           src="/images/hero-cleaning.png"
           alt="Clean modern living room with carpet"
-          className="w-full h-full object-cover"
+          className="w-full h-full object-cover object-right"
         />
         <div className="absolute inset-0 bg-gradient-to-r from-elite-dark/90 via-elite-dark/70 to-transparent" />
       </div>
