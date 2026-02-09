@@ -85,25 +85,25 @@ export const SERVICE_AREAS = [
 export const FEATURED_WORK: FeaturedWorkItem[] = [
   {
     id: 1,
-    image: 'https://images.unsplash.com/photo-1581578731117-104f2a41795e?q=80&w=1600&auto=format&fit=crop',
-    title: 'Professional Tile Restoration',
+    image: '/images/clean1.png',
+    title: 'Professional Carpet Restoration',
     description: 'Bringing the shine back to your tiled surfaces with deep grout cleaning.'
   },
   {
     id: 2,
-    image: 'https://images.unsplash.com/photo-1527513913502-33fa3f5451aa?q=80&w=1600&auto=format&fit=crop',
+    image: '/images/clean2.png',
     title: 'Deep Carpet Cleaning',
-    description: 'Removing tough stains and revitalizing high-traffic areas.'
+    description: 'Powerful carpet cleaning that removes deep-set grime and refreshes heavily used areas.'
   },
   {
     id: 3,
-    image: 'https://images.unsplash.com/photo-1558603668-6570496b66f8?q=80&w=1600&auto=format&fit=crop',
+    image: '/images/clean4.png',
     title: 'Upholstery Care',
     description: 'Gentle yet effective cleaning for your sofas and furniture.'
   },
   {
     id: 4,
-    image: 'https://images.unsplash.com/photo-1584622050111-993a426fbf0a?q=80&w=1600&auto=format&fit=crop',
+    image: '/images/clean6.png',
     title: 'Kitchen & Bath Tile',
     description: 'Specialized equipment for sanitized and spotless hard surfaces.'
   }
