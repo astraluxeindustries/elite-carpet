@@ -31,7 +31,7 @@ const ServiceArea: React.FC = () => {
           <div className="lg:w-2/3 h-[400px] lg:h-auto relative bg-gray-200">
              {/* Replace with actual embedded map in production if API key available, using image for now */}
              <img 
-               src="https://static.googleusercontent.com/media/www.google.com/en//maps/about/images/mymaps/mymaps-desktop-1x.png" 
+               src="/images/map-of-washington-county.webp" 
                alt="Map of Washington County"
                className="w-full h-full object-cover opacity-80 grayscale hover:grayscale-0 transition-all duration-500"
              />
